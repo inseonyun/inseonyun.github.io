@@ -11,7 +11,6 @@ url:                   https://inseonyun.github.io
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 baseurl:               '/'
 
-
 # General settings
 # ---------------------------------------------------------------------------------------
 
@@ -36,7 +35,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/profile.jpg
+logo:                  /assets/img/custom/profile.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -44,10 +43,10 @@ author:
   name:                <Yun> <Inseon>
   email:               <yuninseon@hallym.ac.kr>
   picture:
-    path: /assets/img/profile.jpg
+    path: /assets/img/custom/profile.jpg
     srcset:
-      1x:   /assets/img/profile.jpg
-      2x:   /assets/img/profile@2x.jpg
+      1x:   /assets/img/custom/profile.jpg
+      2x:   /assets/img/custom/profile@2x.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -62,14 +61,19 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-# legal:
+legal:
 #   - title:             LICENSE
 #     url:               /LICENSE/
 #   - title:             NOTICE
 #     url:               /NOTICE/
 #   - title:             CHANGELOG
 #     url:               /CHANGELOG/
-
+  - title:             GitHub
+    icon:              "fab fa-fw fa-github"
+    url:               "https://github.com/inseonyun"
+  - title:             Instagram
+    icon:              "fab fa-fw fa-instagram"
+    url:               "https://instagram.com/in._sunny"
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
 
@@ -92,7 +96,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/background.jpg
+accent_image:          /assets/img/custom/background.jpg
 accent_color:          rgb(0,76,153)
 
 # This is used for the `theme-color` meta tag,
@@ -140,10 +144,10 @@ defaults:
   #     sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  - scope:
+      type:            posts
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -178,7 +182,12 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                <username>
+disqus:                "suuny's-blog"
+defaults:
+  - scope:
+      type: posts
+    values:
+      comments: true
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
