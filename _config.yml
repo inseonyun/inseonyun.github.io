@@ -182,7 +182,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                inseon
+disqus:                disqus_kr_inseon
 # Defaults
 defaults:
   # _posts
