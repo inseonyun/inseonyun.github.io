@@ -71,10 +71,10 @@ legal:
 #   - title:             CHANGELOG
 #     url:               /CHANGELOG/
   - title:             GitHub
-    icon:              "fab fa-fw fa-github"
+    icon:              icon-github
     url:               "https://github.com/inseonyun"
   - title:             Instagram
-    icon:              "fab fa-fw fa-instagram"
+    icon:              icon-instagram
     url:               "https://instagram.com/in._sunny"
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
@@ -90,7 +90,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
@@ -146,10 +146,10 @@ defaults:
   #     sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  - scope:
-      type:            posts
-    values:
-      comments:        true
+  # - scope:
+  #     type:            posts
+  #   values:
+  #     comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
