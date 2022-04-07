@@ -10,8 +10,7 @@ slug: data
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/data.md` to learn how to create your own.
+  블로그 글 모아보기
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
