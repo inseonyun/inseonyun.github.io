@@ -16,10 +16,12 @@ baseurl:               '/'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 inseon yun
+
+timezone:              Asia/Seoul
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -102,7 +104,7 @@ accent_color:          rgb(0,76,153)
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(0,0,0)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -184,18 +186,18 @@ kramdown:
 # pages with `comments: true` in the front matter.
 disqus:                disqus_kr_inseon
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
@@ -420,29 +422,29 @@ sass:
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
 
-# jekyll_compose:
-#   default_front_matter:
-#     drafts:
-#       layout: post
-#       description: > 
-#         A short ~160 character description of your post for search engines,
-#         social media previews, etc.
-#       image:
-#         path: /assets/img/sidebar-bg.jpg
-#     posts:
-#       layout: post
-#       description: > 
-#         A short ~160 character description of your post for search engines,
-#         social media previews, etc.
-#       image:
-#         path: /assets/img/sidebar-bg.jpg
-#     projects:
-#       layout: project
-#       description: > 
-#         A short ~160 character description of your post for search engines,
-#         social media previews, etc.
-#       image:
-#         path: /assets/img/sidebar-bg.jpg
-#       links:
-#         - title: Project Link
-#           url: https://example.com
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    posts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    projects:
+      layout: project
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+      links:
+        - title: Project Link
+          url: https://example.com
