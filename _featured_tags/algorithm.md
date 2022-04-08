@@ -7,5 +7,5 @@ category: devlog
 sidebar: true
 order: 1
 description: >
-   Algorithm study / Problem solutions
+   Algorithm 공부 문제풀이 정리
 ---
