@@ -174,20 +174,7 @@ google_analytics:      G-JPYMR98B7K
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                disqus_kr_inseon
-# Defaults
-# defaults:
-#   # _posts
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: true
-#       read_time: true
-#       comments: true
-#       share: true
-#       related: true
+#disqus:                disqus_kr_inseon
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
