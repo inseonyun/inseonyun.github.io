@@ -1,7 +1,10 @@
 ---
+layout: welcome
 layout: about
 image: /assets/img/custom/profile.jpg
 description: >
+sidebar: true
+order: 1
 hide_description: true
 redirect_from:
   -
