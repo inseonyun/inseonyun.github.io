@@ -322,7 +322,7 @@ include:
 
 plugins:
   - jekyll-default-layout
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
@@ -339,7 +339,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+google_site_verification: 0FCaIwW6ohPnBsmX62xs4zp21On5ZVneK07U-KaCQaQ
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
