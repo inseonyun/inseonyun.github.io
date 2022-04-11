@@ -48,6 +48,7 @@ author:
     path: /assets/img/custom/profile.jpg
     srcset:
       1x:   /assets/img/custom/profile.jpg
+      2x:   /assets/img/custom/profile.jpg
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
