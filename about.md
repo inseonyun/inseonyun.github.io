@@ -23,6 +23,8 @@ redirect_from:
 + email : yuninseon@hallym.ac.kr
 + Github : [github.com/inseonyun](https://github.com/inseonyun)
 
+<img src="https://ghchart.rshah.org/219138/inseonyun"/>
+
 ## 경력 & 경험
 + 2022.01. ~ ing 삼성메디슨 현장실습
 + 2021.12. 한림대학교 SW중심사업단 주관 캡스톤디자인 경연대회 금상
