@@ -34,9 +34,7 @@ layout: null
         {% if page.sitemap != false %}
           <url>
               <loc>{{ site.url }}{{ page.url}}</loc>
-              {% if page.lastmod == null %}
-                <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-              {% else %}
+              {% if page.lastmod != null %}
                 <lastmod>{{ page.lastmod | date_to_xmlschema }}</lastmod>
               {% endif %}
 
