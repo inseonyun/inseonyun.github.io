@@ -29,4 +29,4 @@ Github 블로그를 운영하는 중입니다.💻
 ---
 + Window Programming
 + Mobile (Android) Programming
-+ Kotlin
+  + Java / Kotlin

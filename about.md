@@ -35,12 +35,12 @@ redirect_from:
 ## 선호 언어
 + C# ( . NET )
 + C++
-+ JAVA (Android)
++ Java (Android)
 
-## 관심사
+## 관심 분야
 + Window Programming
 + Mobile (Android) Programming
-+ Kotlin
+  + Java / Kotlin
 
 ## 취득 자격증
 + MOS Master
