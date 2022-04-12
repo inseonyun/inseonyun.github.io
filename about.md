@@ -23,7 +23,9 @@ redirect_from:
 + email : yuninseon@hallym.ac.kr
 + Github : [github.com/inseonyun](https://github.com/inseonyun)
 
-<img src="https://ghchart.rshah.org/219138/inseonyun"/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/219138/inseonyun"/>
+</p>
 
 ## 경력 & 경험
 + 2022.01. ~ ing 삼성메디슨 현장실습
