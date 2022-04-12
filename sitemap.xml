@@ -19,7 +19,7 @@ layout: null
       {% endif %}
 
       {% if post.sitemap.priority == null %}
-          <priority>1.0</priority>
+        <priority>1.0</priority>
       {% else %}
         <priority>{{ post.sitemap.priority }}</priority>
       {% endif %}
@@ -47,7 +47,7 @@ layout: null
               {% endif %}
 
               {% if page.sitemap.priority == null %}
-                  <priority>1.0</priority>
+                <priority>1.0</priority>
               {% else %}
                 <priority>{{ page.sitemap.priority }}</priority>
               {% endif %}
