@@ -32,8 +32,9 @@ layout: base
   {% case addon %}
   {% when 'about' %}
      {% include_cached components/about.html author=page.author %}
+  <!-- 하단에 최근 게시물 표시 안 함
   {% when 'related' %}
-    {% include if-non-null try="components/related-posts.html" %}
+    {% include if-non-null try="components/related-posts.html" %} -->
   {% when 'comments' %}
     <script src="https://utteranc.es/client.js"
             repo="inseonyun/github-pages-issue"
