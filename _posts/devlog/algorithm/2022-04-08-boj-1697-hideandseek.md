@@ -94,4 +94,4 @@ void main() {
 
 ## 문제 풀이 결과
 ---
-![image](https://user-images.githubusercontent.com/84364741/162888804-fbd19e01-28f5-45c6-84a2-30079bf2c8b1.png)
+<img src="/assets/img/post-img/2022-04-08-boj-1697-hideandseek/result.jpg">
