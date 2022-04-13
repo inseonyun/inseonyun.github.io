@@ -38,7 +38,9 @@ last_modified_at: 2022-04-13T14:00:00-15:00
 
 ## 풀이 이미지
 ---
+<p align=center>
 <img src="/assets/img/post-img/algorithm/2022-04-13-boj-2206-breakwallandmove/map-img.jpg">
+</p>
 
 + 위와 같은 맵이 있다고 할 때 좌 상단의 좌표에서 우 하단의 좌표로 이동해야 한다.
     + 이 때, 내가 처음에 풀이했던 방법은 변수 하나를 둬서 변수가 false면 벽을 부술 수 있기 때문에 부수고 true로 변경한 다음 탐색하도록 코딩하였다. 그러면 특정 방향으로만 계속 부수기 때문에 제대로 된 탐색이 되지 못한다.
