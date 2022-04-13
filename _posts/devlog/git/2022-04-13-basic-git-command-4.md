@@ -46,15 +46,16 @@ git revert 'Commit ID'      // 해당 Commit ID 시점으로 돌아간다.
 git 연습용 레포에서 두 명령어의 차이를 보기 위해 실행해보았다.
 
 1. #### git log 명령어로 Commit History 조회
-![image](https://user-images.githubusercontent.com/84364741/163114054-3ed13abc-de69-49f3-a919-38a9d4b9a0c3.png)<br>
+<img src="/assets/img/post-img/git/2022-04-13-basic-git-command-4/git-log.jpg"> <br>
 23a944라는 Commit ID 시점으로 돌아가 비교 해보도록 하겠다.
+
 2. #### 명령어 실행 후 비교
 
-> ##### git reset <br>
-<img src="https://user-images.githubusercontent.com/84364741/163113934-60470912-5ded-4345-99e7-bb8d7dd357d5.png" width="500">
+> ##### git reset
+<img src="/assets/img/post-img/git/2022-04-13-basic-git-command-4/reset-log.jpg" width="500">
 
-> ##### git revert <br>
-<img src="https://user-images.githubusercontent.com/84364741/163113619-cc772c73-71d0-4d40-b4dd-ae4b22fe5f6b.png" width="500">
+> ##### git revert
+<img src="/assets/img/post-img/git/2022-04-13-basic-git-command-4/revert-log.jpg" width="500">
 
 
 ## 마치며

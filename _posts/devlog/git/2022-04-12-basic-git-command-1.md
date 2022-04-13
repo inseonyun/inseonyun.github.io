@@ -42,15 +42,17 @@ Enter same passphrase again:
 이후 *.pub 이라는 파일의 공개키의 내용을 복사하여, 본인의 GitHub 계정 SSH Key에 등록을 해준다.
 
 2. #### GitHub에 SSH 키 등록
-![image](https://user-images.githubusercontent.com/84364741/160071627-945e79c8-22f1-4e51-9f79-9d2ad656ee8f.png)
+<p align=left>
+<img src="/assets/img/post-img/git/2022-04-12-basic-git-command-1/ssh-1.jpg">
 
-<br>
+<br> &nbsp;
 
-<img src ="https://user-images.githubusercontent.com/84364741/160071831-2aa8b3e5-b2cf-4c92-ba55-c468d18c3461.png" width="830">
+<img src ="/assets/img/post-img/git/2022-04-12-basic-git-command-1/ssh-2.jpg" width="830">
 
-<br>
+<br> &nbsp;
 
-<img src ="https://user-images.githubusercontent.com/84364741/160071948-220d30c7-109f-4570-8f38-9f6f92c763e0.png" width="830">
+<img src ="/assets/img/post-img/git/2022-04-12-basic-git-command-1/ssh-3.jpg" width="830">
+</p>
 
 <br>
 

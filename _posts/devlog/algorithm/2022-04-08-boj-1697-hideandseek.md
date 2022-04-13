@@ -94,4 +94,4 @@ void main() {
 
 ## 문제 풀이 결과
 ---
-<img src="/assets/img/post-img/2022-04-08-boj-1697-hideandseek/result.jpg">
+<img src="/assets/img/post-img/algorithm/2022-04-08-boj-1697-hideandseek/result.jpg">

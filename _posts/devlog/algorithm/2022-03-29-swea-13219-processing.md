@@ -34,7 +34,7 @@ last_modified_at: 2022-04-08T13:00:00-13:00
 
 ## 풀이 예시 이미지
 ---
-<img src="/assets/img/post-img/2022-03-29-swea-13219-processing/processing-img.jpg">
+<img src="/assets/img/post-img/algorithm/2022-03-29-swea-13219-processing/processing-img.jpg">
 
 ## 소스코드
 ---
@@ -90,4 +90,4 @@ int main() {
 
 ## 문제 풀이 결과
 ---
-<img src="/assets/img/post-img/2022-03-29-swea-13219-processing/result.jpg">
+<img src="/assets/img/post-img/algorithm/2022-03-29-swea-13219-processing/result.jpg">

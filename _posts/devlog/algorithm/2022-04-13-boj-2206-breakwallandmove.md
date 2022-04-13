@@ -38,7 +38,7 @@ last_modified_at: 2022-04-13T14:00:00-15:00
 
 ## 풀이 이미지
 ---
-<img src="/assets/img/post-img/2022-04-13-boj-2206-breakwallandmove/map-img.jpg">
+<img src="/assets/img/post-img/algorithm/2022-04-13-boj-2206-breakwallandmove/map-img.jpg">
 
 + 위와 같은 맵이 있다고 할 때 좌 상단의 좌표에서 우 하단의 좌표로 이동해야 한다.
     + 이 때, 내가 처음에 풀이했던 방법은 변수 하나를 둬서 변수가 false면 벽을 부술 수 있기 때문에 부수고 true로 변경한 다음 탐색하도록 코딩하였다. 그러면 특정 방향으로만 계속 부수기 때문에 제대로 된 탐색이 되지 못한다.
@@ -51,8 +51,9 @@ last_modified_at: 2022-04-13T14:00:00-15:00
 아래와 같은 맵에서 값이 2인 곳에서 각각 다시 시작하게 되고, 시작하기 전 큐의 상태이다.
 
 <p align=center>
-	<img src="/assets/img/post-img/2022-04-13-boj-2206-breakwallandmove/map-img-2.jpg" width="300">
-	<img src="/assets/img/post-img/2022-04-13-boj-2206-breakwallandmove/queue-img.jpg" width="200">
+	<img src="/assets/img/post-img/algorithm/2022-04-13-boj-2206-breakwallandmove/map-img-2.jpg" width="300">
+	&nbsp; &nbsp;
+	<img src="/assets/img/post-img/algorithm/2022-04-13-boj-2206-breakwallandmove/queue-img.jpg" width="200">
 </p>
 
 ## 기타 주의 사항
@@ -140,4 +141,4 @@ int main() {
 
 ## 문제 풀이 결과
 ---
-<img src="/assets/img/post-img/2022-04-13-boj-2206-breakwallandmove/result.jpg">
+<img src="/assets/img/post-img/algorithm/2022-04-13-boj-2206-breakwallandmove/result.jpg">
