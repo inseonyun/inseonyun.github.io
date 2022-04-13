@@ -4,7 +4,7 @@ title: Git 기본 명령어 응용 (1) - reset과 revert
 category: devlog
 tags: git
 
-last_modified_at: 2022-04-12T17:00:00-18:00
+last_modified_at: 2022-04-13T14:00:00-15:00
 ---
 
 1. this list will be replaced by the toc
