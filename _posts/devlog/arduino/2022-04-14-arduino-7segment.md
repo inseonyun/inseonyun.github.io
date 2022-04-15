@@ -31,7 +31,7 @@ last_modified_at: 2022-04-14T20:00:00+09:00
 
 ## 소스코드
 ---
-~~~c
+~~~c++
 #define PLUS 11  // 버튼 연결 핀 
 #define MINUS 12
 
