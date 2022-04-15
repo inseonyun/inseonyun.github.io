@@ -76,6 +76,6 @@ void loop() {
 
 ## 시연 영상
 ---
-<video width="80%" height="80%" controls="controls">
+<video width="40%" height="40%" controls="controls">
   <source src="/assets/img/post-img/arduino/2022-04-15-arduino-firealarm/video.mp4" type="video/mp4">
 </video>
