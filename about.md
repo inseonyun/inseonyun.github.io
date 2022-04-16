@@ -20,7 +20,7 @@ redirect_from:
 + 생년월일 : 1998. 09. 25.
 + 거주지 : 서울 중랑구 / 강원도 춘천
 + 소속 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공 (부전공 : 콘텐츠IT) 2023. 02. 졸업예정 
-+ email : yuninseon@hallym.ac.kr
++ Email : yuninseon@hallym.ac.kr
 + Github : [github.com/inseonyun](https://github.com/inseonyun)
 
 <p align="center">
@@ -61,5 +61,3 @@ redirect_from:
 |2021-1|공통전선|정보보호론|3|
 |2020-2|공통전선|데이터베이스|3|
 |2020-2|공통전선|알고리즘|3|
-
-## 주요 활동
