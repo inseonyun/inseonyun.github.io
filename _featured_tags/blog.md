@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: Git
-slug: git
+title: Blog
+slug: blog
 category: devlog
 sidebar: true
-order: 4
+order: 3
 description: >
-   GitHub 관리하면서 정리한 것들
+   GitHub Blog 관련 정리
 ---
