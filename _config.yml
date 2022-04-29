@@ -308,7 +308,6 @@ collections:
 exclude:
   - .jekyll-cache
   - .sass-cache
-  - '*.toml'
   - vendor
   - Gemfile
   - Gemfile.lock
