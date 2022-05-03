@@ -23,6 +23,11 @@ title:                 inseon yun
 
 timezone:              Asia/Seoul
 
+# Set favicon
+favicon: /assets/icons/favicon.ico
+icon: /assets/icons/favicon-32x32.png
+apple_touch_icon: /assets/icons/apple-icon-57x57.png
+
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
@@ -75,8 +80,8 @@ paginate_path:         /:num/
 # Theme.
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
