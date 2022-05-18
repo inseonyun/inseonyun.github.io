@@ -18,9 +18,11 @@ description: >
 * [Blog]{:.heading.flip-title} --- GitHub Blog 관련 정리
 * [Git]{:.heading.flip-title} --- Git 관련 Command 정리
 * [Intern]{:.heading.flip-title} --- 2022년 상반기 삼성메디슨 인턴 진행
+* [Python]{:.heading.flip-title} --- Python으로 이것저것 해보자!
 
 [Algorithm]: /tag-algorithm/
 [Arduino]: /tag-arduino/
 [Blog]: /tag-blog/
 [Git]: /tag-git/
 [Intern]: /tag-intern/
+[Python]: /tag-python/
