@@ -16,7 +16,6 @@ redirect_from:
 ---
 Github 블로그를 운영하는 중입니다.💻  
 
-+ Email : yuninseon@hallym.ac.kr
 + Github : [github.com/inseonyun](https://github.com/inseonyun)
 
 ## 경력 & 경험
