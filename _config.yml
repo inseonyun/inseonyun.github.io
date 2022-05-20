@@ -48,7 +48,7 @@ logo:                  /assets/img/custom/profile.jpg
 author:
   # Used by `jekyll-feed`:
   name:                <Yun> <Inseon>
-  email:               <yuninseon@hallym.ac.kr>
+  # email:               <yuninseon@hallym.ac.kr>
   picture:
     path: /assets/img/custom/profile.jpg
     srcset:
