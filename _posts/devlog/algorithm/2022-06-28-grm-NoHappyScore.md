@@ -12,7 +12,7 @@ last_modified_at: 2022-06-28T14:00:00+09:00
 
 ## 문제 URL
 ---
-> + goorm : https://level.goorm.io/
+> + goorm : [https://level.goorm.io/](https://level.goorm.io/)
 > + 해당 문제는 위 링크에서 ' [기본] 행복은 성적순이 아니잖아요' 로 검색하면 찾을 수 있습니다. -  [Direct URL](https://level.goorm.io/exam/147448/%EA%B8%B0%EB%B3%B8-%ED%96%89%EB%B3%B5%EC%9D%80-%EC%84%B1%EC%A0%81%EC%88%9C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%9E%96%EC%95%84%EC%9A%94/quiz/1)
 
 
