@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 구름 단어장 만들기 문제풀이 in C++
+title: 구름 [기본] 단어장 만들기 문제풀이 in C++
 category: devlog
 tags: algorithm
 
@@ -12,8 +12,8 @@ last_modified_at: 2022-06-28T14:00:00+09:00
 
 ## 문제 URL
 ---
-> goorm : https://level.goorm.io/
-> 해당 문제는 위 링크에서 ' [기본] 단어장 만들기' 로 검색하면 찾을 수 있습니다. -  [Direct URL](https://level.goorm.io/exam/148704/%EA%B8%B0%EB%B3%B8-%EB%8B%A8%EC%96%B4%EC%9E%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0/quiz/1)
+> + goorm : https://level.goorm.io/
+> + 해당 문제는 위 링크에서 ' [기본] 단어장 만들기' 로 검색하면 찾을 수 있습니다. -  [Direct URL](https://level.goorm.io/exam/148704/%EA%B8%B0%EB%B3%B8-%EB%8B%A8%EC%96%B4%EC%9E%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0/quiz/1)
 
 ## 문제 요구사항
 ---
@@ -76,4 +76,4 @@ int main() {
 
 ## 문제 풀이 결과
 ---
-<img src="/assets/img/post-img/algorithm/2022-06-28-goorm-MakeNotepad/result.jpg">
+<img src="/assets/img/post-img/algorithm/2022-06-28-grm-MakeNotepad/result.jpg">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 구름 주식투자자A 문제풀이 in C++
+title: 구름 [00증권] 주식투자자A 문제풀이 in C++
 category: devlog
 tags: algorithm
 
@@ -12,8 +12,8 @@ last_modified_at: 2022-06-28T14:00:00+09:00
 
 ## 문제 URL
 ---
-> goorm : https://level.goorm.io/
-> 해당 문제는 위 링크에서 ' [00증권] 주식투자자 A' 로 검색하면 찾을 수 있습니다. -  [Direct URL](https://level.goorm.io/exam/150257/00%EC%A6%9D%EA%B6%8C-%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90%EC%9E%90-a/quiz/1)
+> + goorm : https://level.goorm.io/
+> + 해당 문제는 위 링크에서 ' [00증권] 주식투자자 A' 로 검색하면 찾을 수 있습니다. -  [Direct URL](https://level.goorm.io/exam/150257/00%EC%A6%9D%EA%B6%8C-%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90%EC%9E%90-a/quiz/1)
 
 ## 문제 요구사항
 ---
@@ -88,4 +88,4 @@ int main() {
 
 ## 문제 풀이 결과
 ---
-<img src="/assets/img/post-img/algorithm/2022-06-28-goorm-JusikTujajaA/result.jpg">
+<img src="/assets/img/post-img/algorithm/2022-06-28-grm-JusikTujajaA/result.jpg">
