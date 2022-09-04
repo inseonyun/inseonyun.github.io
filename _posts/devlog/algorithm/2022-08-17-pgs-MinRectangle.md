@@ -70,4 +70,4 @@ int solution(vector<vector<int>> sizes) {
 
 ## 문제 풀이 결과
 ---
-<img src="/assets/img/post-img/algorithm/2022-07-22-boj-01Tile/result.jpg">
+<img src="/assets/img/post-img/algorithm/2022-08-17-pgs-MinRectangle/result.jpg">
