@@ -29,7 +29,8 @@ last_modified_at: 2022-09-05T14:00:00+09:00
 ---
 > + 기초 프로그래밍 방식으로 풀이했다.
 > + 알아보니 algorithm 라이브러리에 있는 unique를 사용해서 vector의 중복 원소를 erase 할 수 있다.
-<pre>
+
+~~~c++
 vector<int> solution(vector<int> arr) 
 {    
     arr.erase(unique(arr.begin(), arr.end()), arr.end());
@@ -37,7 +38,8 @@ vector<int> solution(vector<int> arr)
 
     return answer;
 }
-</pre>
+~~~
+
 
 ## 풀이 순서
 ---
