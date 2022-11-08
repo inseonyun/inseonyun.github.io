@@ -1,7 +1,18 @@
 function spread(count){
-    document.getElementById('folder-checkbox-' + count).checked =
-    !document.getElementById('folder-checkbox-' + count).checked
-    document.getElementById('spread-icon-' + count).innerHTML =
-    document.getElementById('spread-icon-' + count).innerHTML == 'arrow_right' ?
-    'arrow_drop_down' : 'arrow_right'
+    let folderCheckbox = document.getElementById('folder-checkbox-' + count);
+    if(folderCheckbox){
+        if(folderCheckbox.checked) folderCheckbox.checked = !folderCheckbox.checked
+        else folderCheckbox.checked = !folderCheckbox.checked
+    }
+
+    let spreadIcon = document.getElementById('spread-icon-' + count);
+    if(spreadIcon){
+        if(spreadIcon.innerHTML == 'arrow_right') {
+            spreadIcon.innerHTML = 'arrow_drop_down';
+            spreadIcon.style.color = 'grey';
+        }else{
+            spreadIcon.innerHTML = 'arrow_right';
+            spreadIcon.style.color = 'white';
+        }
+    }
 }
