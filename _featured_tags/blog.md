@@ -7,5 +7,5 @@ category: devlog
 sidebar: true
 order: 3
 description: >
-   GitHub Blog 관련 정리
+   Blog
 ---
