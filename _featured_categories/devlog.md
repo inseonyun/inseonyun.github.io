@@ -18,6 +18,7 @@ description: >
 * [Blog]{:.heading.flip-title} --- GitHub Blog 관련 정리
 * [Git]{:.heading.flip-title} --- Git 관련 Command 정리
 * [Intern]{:.heading.flip-title} --- 2022년 상반기 삼성메디슨 인턴 진행
+* [Kotlin]{:.heading.flip-title} --- Kotlin 공부 정리
 * [Python]{:.heading.flip-title} --- Python으로 이것저것 해보자!
 
 [Algorithm]: /tag-algorithm/
@@ -25,4 +26,5 @@ description: >
 [Blog]: /tag-blog/
 [Git]: /tag-git/
 [Intern]: /tag-intern/
+[Kotlin]: /tag-kotlin/
 [Python]: /tag-python/
