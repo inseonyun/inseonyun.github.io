@@ -1,10 +1,10 @@
 ---
-layout: tag-list
-type: tag
+layout: list
+type: category
 title: Blog
 slug: blog
-category: blog
 sidebar: true
+order: 3
 description: >
-   Blog
+  이모저모
 ---

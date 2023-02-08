@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 우아한테크코스 5기 안드로이드 지원 후기(최종 합격)
-category: devlog
+category: blog
 tags: blog
 
 last_modified_at: 2023-01-03T14:00:00-15:00
