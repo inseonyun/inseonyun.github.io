@@ -17,9 +17,7 @@ redirect_from:
 {:toc .large-only}
 
 + 이름 : 윤인선
-+ 생년월일 : 1998. 09. 25.
-+ 거주지 : 서울 중랑구 / 강원도 춘천
-+ 소속 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공 (복수전공 : 콘텐츠IT) 2023. 02. 졸업예정 
++ 학력 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공 (복수전공 : 콘텐츠IT) 졸업
 + Github : [github.com/inseonyun](https://github.com/inseonyun)
 
 <p align="center">
