@@ -4,7 +4,7 @@ type: tag
 title: Blog
 slug: blog
 category: blog
-sidebar: true
+sidebar: false
 description: >
    Blog
 ---
