@@ -5,7 +5,7 @@ title: Git
 slug: git
 category: devlog
 sidebar: true
-order: 3
+order: 4
 description: >
    GitHub 관리하면서 정리한 것들
 ---

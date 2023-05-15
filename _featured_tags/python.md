@@ -5,7 +5,7 @@ title: Python
 slug: python
 category: devlog
 sidebar: true
-order: 6
+order: 7
 description: >
    Python으로 이것저것 해보자!
 ---

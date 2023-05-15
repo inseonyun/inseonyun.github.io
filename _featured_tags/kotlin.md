@@ -5,7 +5,7 @@ title: Kotlin
 slug: kotlin
 category: devlog
 sidebar: true
-order: 5
+order: 6
 description: >
    Kotlin 공부 정리
 ---

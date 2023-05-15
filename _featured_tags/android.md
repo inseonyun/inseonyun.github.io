@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: Arduino
-slug: arduino
+title: Android
+slug: android
 category: devlog
 sidebar: true
-order: 3
+order: 2
 description: >
-   Arduino를 사용해보자!
+   Android 공부 정리
 ---
