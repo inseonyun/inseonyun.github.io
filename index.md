@@ -18,7 +18,7 @@ Github 블로그를 운영하는 중입니다.💻
 
 + Github : [github.com/inseonyun](https://github.com/inseonyun)
 
-## 경력 & 경험
+<!-- ## 경력 & 경험
 ---
 + 2022.02. ~ 우아한테크코스 안드로이드
 + 2022.10. ~2022. 11. 우아한테크코스 프리코스 안드로이드
@@ -35,4 +35,4 @@ Github 블로그를 운영하는 중입니다.💻
 ---
 + Mobile (Android) Programming
   + Kotlin / Java 
-+ Window Programming
++ Window Programming -->

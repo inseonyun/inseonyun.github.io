@@ -17,14 +17,14 @@ redirect_from:
 {:toc .large-only}
 
 + 이름 : 윤인선
-+ 학력 : 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공 (복수전공 : 콘텐츠IT) 졸업
++ 2022.02. ~ 우아한테크코스 안드로이드
 + Github : [github.com/inseonyun](https://github.com/inseonyun)
 
 <p align="center">
   <img src="https://ghchart.rshah.org/219138/inseonyun"/>
 </p>
 
-## 경력 & 경험
+<!-- ## 경력 & 경험
 + 2022.02. ~ 우아한테크코스 안드로이드
 + 2022.10. ~2022. 11. 우아한테크코스 프리코스 안드로이드
 + 2022.01. ~2022.06. 삼성메디슨 현장실습
@@ -49,4 +49,4 @@ redirect_from:
 ## 취득 자격증
 + MOS Master
 + 워드프로세서
-+ 컴퓨터활용능력 1급
++ 컴퓨터활용능력 1급 -->
